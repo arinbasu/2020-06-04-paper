@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/manubot/rootstock/tree/gh-pages) branch hosts the contents of this directory at <https://manubot.github.io/rootstock/>.
-The permalink for this webpage version is <https://manubot.github.io/rootstock/v/b7462701ff85854a67d878db4af89d0268bb11d2/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://manubot.github.io/rootstock/v/freeze/>.
+The [`gh-pages`](https://github.com/arinbasu/2020-06-04-paper/tree/gh-pages) branch hosts the contents of this directory at <https://arinbasu.github.io/2020-06-04-paper/>.
+The permalink for this webpage version is <https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://arinbasu.github.io/2020-06-04-paper/v/freeze/>.
 
 ## Files
 
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b7462701ff85854a67d878db4af89d0268bb11d2`](https://github.com/manubot/rootstock/commit/b7462701ff85854a67d878db4af89d0268bb11d2).
+[`b7462701ff85854a67d878db4af89d0268bb11d2`](https://github.com/arinbasu/2020-06-04-paper/commit/b7462701ff85854a67d878db4af89d0268bb11d2).

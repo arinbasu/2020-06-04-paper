@@ -5,6 +5,7 @@ amet
 anim
 aute
 cillum
+codimd
 commodo
 consectetur
 consequat
@@ -20,6 +21,7 @@ esse
 Excepteur
 exercitation
 fugiat
+hackmd
 incididunt
 ipsum
 irure

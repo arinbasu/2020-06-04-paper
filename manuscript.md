@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://arinbasu.github.io/2020-06-04-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/" />
+  <link rel="alternate" type="text/html" href="https://arinbasu.github.io/2020-06-04-paper/v/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/" />
+  <meta name="manubot_html_url_versioned" content="https://arinbasu.github.io/2020-06-04-paper/v/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://arinbasu.github.io/2020-06-04-paper/v/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/))
+([permalink](https://arinbasu.github.io/2020-06-04-paper/v/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9/))
 was automatically generated
-from [arinbasu/2020-06-04-paper@b746270](https://github.com/arinbasu/2020-06-04-paper/tree/b7462701ff85854a67d878db4af89d0268bb11d2)
+from [arinbasu/2020-06-04-paper@b7fecfa](https://github.com/arinbasu/2020-06-04-paper/tree/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9)
 on June 4, 2020.
 </em></small>
 
@@ -137,7 +137,15 @@ on June 4, 2020.
 
 
 ## Abstract {.page_break_before}
-
+This is a first pass at writing a paper using github.
+Write in markdown, clone and continue to write, 
+either in any text editor,
+or in hackmd,
+or in codimd (hackmd locally hosted),
+or in any other editor.
+Then upload and read.
+It will read the same.
+Supports. 
 
 
 

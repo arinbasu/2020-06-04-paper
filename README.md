@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/arinbasu/2020-06-04-paper/tree/gh-pages) branch hosts the contents of this directory at <https://arinbasu.github.io/2020-06-04-paper/>.
-The permalink for this webpage version is <https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/>.
+The permalink for this webpage version is <https://arinbasu.github.io/2020-06-04-paper/v/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://arinbasu.github.io/2020-06-04-paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`b7462701ff85854a67d878db4af89d0268bb11d2`](https://github.com/arinbasu/2020-06-04-paper/commit/b7462701ff85854a67d878db4af89d0268bb11d2).
+[`b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9`](https://github.com/arinbasu/2020-06-04-paper/commit/b7fecfa25655c6b6142208ddc7d2cf47c4db8ee9).

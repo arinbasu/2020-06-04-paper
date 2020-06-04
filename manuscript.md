@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-24'
+date-meta: '2020-06-04'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript Title" />
 
-  <meta name="dc.date" content="2020-05-24" />
+  <meta name="dc.date" content="2020-06-04" />
 
-  <meta name="citation_publication_date" content="2020-05-24" />
+  <meta name="citation_publication_date" content="2020-06-04" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -55,23 +55,23 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <link rel="canonical" href="https://manubot.github.io/rootstock/" />
+  <link rel="canonical" href="https://arinbasu.github.io/2020-06-04-paper/" />
 
-  <meta property="og:url" content="https://manubot.github.io/rootstock/" />
+  <meta property="og:url" content="https://arinbasu.github.io/2020-06-04-paper/" />
 
-  <meta property="twitter:url" content="https://manubot.github.io/rootstock/" />
+  <meta property="twitter:url" content="https://arinbasu.github.io/2020-06-04-paper/" />
 
-  <meta name="citation_fulltext_html_url" content="https://manubot.github.io/rootstock/" />
+  <meta name="citation_fulltext_html_url" content="https://arinbasu.github.io/2020-06-04-paper/" />
 
-  <meta name="citation_pdf_url" content="https://manubot.github.io/rootstock/manuscript.pdf" />
+  <meta name="citation_pdf_url" content="https://arinbasu.github.io/2020-06-04-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="application/pdf" href="https://manubot.github.io/rootstock/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://arinbasu.github.io/2020-06-04-paper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/rootstock/v/b7462701ff85854a67d878db4af89d0268bb11d2/" />
+  <link rel="alternate" type="text/html" href="https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/rootstock/v/b7462701ff85854a67d878db4af89d0268bb11d2/" />
+  <meta name="manubot_html_url_versioned" content="https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/rootstock/v/b7462701ff85854a67d878db4af89d0268bb11d2/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/rootstock/v/b7462701ff85854a67d878db4af89d0268bb11d2/))
+([permalink](https://arinbasu.github.io/2020-06-04-paper/v/b7462701ff85854a67d878db4af89d0268bb11d2/))
 was automatically generated
-from [manubot/rootstock@b746270](https://github.com/manubot/rootstock/tree/b7462701ff85854a67d878db4af89d0268bb11d2)
-on May 24, 2020.
+from [arinbasu/2020-06-04-paper@b746270](https://github.com/arinbasu/2020-06-04-paper/tree/b7462701ff85854a67d878db4af89d0268bb11d2)
+on June 4, 2020.
 </em></small>
 
 ## Authors
